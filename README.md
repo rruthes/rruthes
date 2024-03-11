@@ -1,7 +1,6 @@
 
 - 👨‍💻 Estudando programação back-end 
-- 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia
-- 🧘‍♂️ Hobbies: academia, jogar futebol e tocar piano     
+- 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia    
 - 🦾 Parte da DevCommunity Mauá
 - ✍ Idiomas: português, inglês, espanhol
 
