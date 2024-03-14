@@ -1,8 +1,12 @@
 
-- 👨‍💻 Estudando programação back-end 
-- 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia    
+- 👨‍💻 Estudando desenvolvimento back-end
+ | *Focusing on back-end developing*
+- 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia
+ | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
 - 🦾 Parte da DevCommunity Mauá
+ | *A member of DevCommunity Mauá*
 - ✍ Idiomas: português, inglês, espanhol
+ | *Idioms: portuguese, english, spanish*
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
