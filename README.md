@@ -1,6 +1,6 @@
 
-- 👨‍💻 Estudando desenvolvimento back-end
- | *Focusing on back-end developing*
+- 👨‍💻 Estudando desenvolvimento front-end
+ | *Focusing on front-end developing*
 - 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia
  | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
 - 🦾 Parte da DevCommunity Mauá
