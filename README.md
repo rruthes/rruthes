@@ -1,5 +1,5 @@
-Eai! Me chamo Rafael Ruthes.
-##
+<h1>Eai! Me chamo Rafael Ruthes 😉</h1>
+
 - 👨‍💻 Estudando desenvolvimento front-end
  | *Focusing on front-end developing*
 - 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia
