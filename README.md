@@ -1,12 +1,12 @@
 <h1>Eai! Me chamo Rafael Ruthes 😉</h1>
 
-- 👨‍💻 Estudando desenvolvimento front-end
- | *Focusing on front-end developing*
-- 🎓 Cursando Ciência da Computação (1° semestre)  no IMT - Instituto Mauá de Tecnologia
+- 👨‍💻 Movido pelo <strong>interesse em aprender</strong> mais sobre tecnologia
+ | *Driven by the interest in learning more about technology*
+- 🎓 Cursando <strong>Ciência da Computação</strong> (1° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
  | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
 - 🦾 Parte da DevCommunity Mauá
  | *A member of DevCommunity Mauá*
-- ✍ Idiomas: português, inglês, espanhol
+- ✍ Idiomas: <strong>português, inglês, espanhol</strong>
  | *Idioms: portuguese, english, spanish*
 
 <div style="display: inline_block"><br>
