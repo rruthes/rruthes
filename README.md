@@ -2,7 +2,7 @@
 
 - 👨‍💻 Movido pelo <strong>interesse em aprender</strong> mais sobre tecnologia
  | *Driven by the interest in learning more about technology*
-- 🎓 Cursando <strong>Ciência da Computação</strong> (1° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
+- 🎓 Cursando <strong>Ciência da Computação</strong> (2° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
  | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
 - 🦾 Parte da DevCommunity Mauá
  | *A member of DevCommunity Mauá*
