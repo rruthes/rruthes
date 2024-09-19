@@ -15,7 +15,6 @@
 <h2>Github Stats</h2>
 
 ![rruthes stats](https://github-readme-stats.vercel.app/api?username=rruthes&show_icons=true&theme=dracula)
-##
 
 <div style="display: inline_block"><br>
 <h2>Tech Stack</h2>
