@@ -29,6 +29,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
           
 </div>
 
