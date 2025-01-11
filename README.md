@@ -2,10 +2,12 @@
 
 - 👨‍💻 Movido pelo <strong>interesse em aprender</strong> mais sobre tecnologia
  | *Driven by the interest in learning more about technology*
-- 🎓 Cursando <strong>Ciência da Computação</strong> (2° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
+- 🎓 Cursando <strong>Ciência da Computação</strong> (3° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
  | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
 - 🦾 Parte da DevCommunity Mauá
  | *A member of DevCommunity Mauá*
+- 💼 Atualmente atuando como <strong>estagiário de tecnologia</strong> no BBVA
+ | *Currently working as a tech intern at BBVA*
 - 📖 Apaixonado pela área de <strong>Data Science</strong>
  | *Thrilled by Data Science*
 - ✍ Idiomas: <strong>português, inglês, espanhol</strong>
