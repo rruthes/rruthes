@@ -8,8 +8,6 @@
  | *A member of DevCommunity Mauá*
 - 💼 Atualmente atuando como <strong>estagiário de tecnologia</strong> no BBVA
  | *Currently working as a tech intern at BBVA*
-- 📖 Apaixonado pela área de <strong>Data Science</strong>
- | *Thrilled by Data Science*
 - ✍ Idiomas: <strong>português, inglês, espanhol</strong>
  | *Idioms: portuguese, english, spanish*
 
