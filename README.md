@@ -1,45 +1,13 @@
-<h1>Eai! Me chamo Rafael Ruthes 😉</h1>
-
-- 👨‍💻 Movido pelo <strong>interesse em aprender</strong> mais sobre tecnologia
- | *Driven by the interest in learning more about technology*
-- 🎓 Cursando <strong>Ciência da Computação</strong> (3° semestre)  no <strong>IMT - Instituto Mauá de Tecnologia</strong>
- | *Studying Computer Science at IMT - Instituto Mauá de Tecnologia*    
-- 🦾 Parte da DevCommunity Mauá
- | *A member of DevCommunity Mauá*
-- 💼 Atualmente atuando como <strong>estagiário de tecnologia</strong> no BBVA
- | *Currently working as a tech intern at BBVA*
-- ✍ Idiomas: <strong>português, inglês, espanhol</strong>
- | *Idioms: portuguese, english, spanish*
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/3e84c39e-20a9-4920-b998-c781922e8a00" alt="Banner" />
+<h1 align="left"> Hi there!✌️<br> Welcome to my GitHub profile. </h1>
+</p>
 
 
-<h2>Github Stats</h2>
+[![Linkedin: rruthes](https://img.shields.io/badge/-rafaelruthes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruthes/)](https://www.linkedin.com/in/rafaelruthes/)
+[![GitHub rruthes](https://img.shields.io/github/followers/rruthes?label=follow&style=social)](https://github.com/rruthes)
+<p><em>Intern at <a href="https://www.bbva.com/en/">BBVA</a></br>Backend Developer at <a href="https://www.instagram.com/devcommunitymaua/">DevCommunity Mauá</a></br>CS Undergrad at <a href="https://www.maua.br/">Instituto Mauá de Tecnologia</a>
 
-![rruthes stats](https://github-readme-stats.vercel.app/api?username=rruthes&show_icons=true&theme=dracula)
+**Preferred Programming Languages**
 
-<div style="display: inline_block"><br>
-<h2>Tech Stack</h2>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud_run/google_cloud_run-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-          
-</div>
-
-##
-
-<div> 
-  <a href="https://instagram.com/ruthessss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/rafael-ruthes-5445031ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rafael.ruthes.contractor@bbva.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-  
-</div>
-        
-          
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
