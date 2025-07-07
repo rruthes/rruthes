@@ -6,7 +6,7 @@
 
 [![Linkedin: rruthes](https://img.shields.io/badge/-rafaelruthes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelruthes/)](https://www.linkedin.com/in/rafaelruthes/)
 [![GitHub rruthes](https://img.shields.io/github/followers/rruthes?label=follow&style=social)](https://github.com/rruthes)
-<p><em>Intern at <a href="https://www.bbva.com/en/">BBVA</a></br>Backend Developer at <a href="https://www.instagram.com/devcommunitymaua/">DevCommunity Mauá</a></br>CS Undergrad at <a href="https://www.maua.br/">Instituto Mauá de Tecnologia</a>
+<p>Backend Developer at <a href="https://www.instagram.com/devcommunitymaua/">DevCommunity Mauá</a></br>CS Undergrad at <a href="https://www.maua.br/">Instituto Mauá de Tecnologia</a>
 
 **Preferred Programming Languages**
 
